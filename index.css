@@ -1,3 +1,20 @@
+nav{
+    text-align: center;
+    border-top: 1px solid #8A8070;
+    border-bottom: 1px solid #8A8070;
+    ;
+}
+
+div{
+    height: 10px;
+}
+
+li{
+    background-color: white;
+    display: inline-flex;
+    width: 4%;
+}
+
 .center{
     display: block;
     margin-left: auto;
@@ -5,19 +22,6 @@
     width: 20%;
 }
 
-div{
-    height: 10px;
-}
-
-nav{
-    text-align: center;
-    border-top: 1px solid #8A8070;
-    border-bottom: 1px solid #8A8070;
-}
-
-
-li{
-    background-color: white;
-    display: inline-flex;
-    width: 4%;
+.food{
+    width: 400px;
 }
