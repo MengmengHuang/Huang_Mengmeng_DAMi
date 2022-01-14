@@ -1,3 +1,7 @@
+main{
+    background-color: blanchedalmond;
+    margin-top: 0%;
+}
 body{
     margin-top: 0px; 
     margin-bottom: 0px; 
@@ -6,11 +10,13 @@ body{
 }
 
 header{
+    padding-top: 2%;
     text-align: center;
     position: sticky;
     width: 100%;
     top: 0;
     background-color: whitesmoke;
+    margin-bottom: 0px;
 }
 
 nav{
