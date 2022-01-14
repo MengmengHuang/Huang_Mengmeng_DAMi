@@ -1,12 +1,64 @@
-h4 a{
-    text-decoration: none ;
-    color:black;
+main{
+    text-align: center;
+    display: flex;
+    padding-left: 10%;
+    padding-right: 20%;
 }
 
-.food{
-    width: 400px;
+main div.receipt div h4 a{
+    font-weight: bold;
+    text-decoration: none;
+    font-size: larger;
+    color: black;
 }
 
-.myself{
-    display: inline-block;
+main div.myself div.bgGrey{
+    background-color: grey;
+}
+
+main div.myself div.bgGrey div.bgGreen{
+    background-color: #7ABA96;
+    font-weight: bold;
+    height: 1cm;
+}
+
+div.myself{
+    width: 300px ;
+    margin: 1.5cm;
+    text-align: center;
+}
+
+div.myself *{
+    text-align: center;
+}
+
+div.receipt{
+    margin: 1.5cm;
+    text-align: center;
+}
+
+div.receipt p.data{
+    text-align: center;
+    border-top: 1px solid #7ABA96;
+    border-bottom: 1px solid #7ABA96;;
+}
+
+img.food{
+    width: 450px;
+}
+
+div.footer{
+    background-color: black;
+    text-align: center;
+    height: 2.5cm;
+}
+
+div.footer p{
+    display: inline;
+    margin-inline: 1cm;
+}
+
+div.footer p a{
+    text-decoration: none;
+    color: white;
 }
