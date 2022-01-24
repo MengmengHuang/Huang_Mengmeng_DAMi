@@ -1,0 +1,25 @@
+main{
+    padding-right: 30%;
+    padding-left: 30%;
+    display: block;
+}
+
+main h2{
+    padding-bottom: 2%;
+    border-bottom: 2px solid black;
+}
+main img{
+    width: 100%;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+
+html{
+    text-align: justify;
+}
+
+main *{
+    padding-bottom: 1%;
+}

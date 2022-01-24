@@ -1,7 +1,11 @@
 main{
-    background-color: blanchedalmond;
     margin-top: 0%;
 }
+
+html{
+	background-color: blanchedalmond;
+}
+
 body{
     margin-top: 0px; 
     margin-bottom: 0px; 
