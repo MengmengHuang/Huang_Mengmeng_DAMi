@@ -1,0 +1,101 @@
+*{
+    font-family: "Lato", sans-serif;
+    font-size: 16px;
+    color: #4e4e4e;
+}
+header{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-align: center;
+    background-color: #30c7d5;
+}
+nav img{
+    width: 100px;
+    vertical-align: -100%;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+}
+nav a:hover{
+    background-color: #dd9e6b;
+}
+header nav ul li{
+    display: inline-flex;
+    text-align: center;
+    margin-inline: 1%;
+    font-size: larger;
+}
+
+main section.section_background_orange{
+    text-align: justify;
+    padding-top: 1%;
+    background-color: #dd9e6b;
+    padding-bottom: 1%;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+main img.perfil{
+    width: 200px;
+    float: left;
+    margin-right: 2%;
+}
+h1{
+    color: white;
+}
+main section.section_2{
+    clear: left;
+    display: flex;
+}
+main section.section_2 article{
+    margin: 3%;
+    text-align: center;
+}
+h2{
+    border-bottom: black 1px solid;
+    padding-top: 10%;
+}
+h2 a{
+    text-decoration: none;
+    color: black;
+}
+h2 a:hover{
+    color: #30c7d5;
+}
+img.medium_size{
+    width: 400px;
+}
+div.border{
+    position: relative;
+    border: black 1px solid;
+    padding-left: 4%;
+    padding-right: 4%;
+    margin-top: -10%;
+}
+img.red_social{
+    width: 25px;
+    float: right;
+    margin: 1px;
+}
+footer{
+    border-top: solid #30c7d5 3px;
+}
+
+
+
+
+
+/*
+azul: #30c7d5;
+naranja: #dd9e6b;
+marron: #cf928b;
+gris: #4e4e4e;
+
+//Fuente de toda la página
+font-family: "Lato", sans-serif;
+font-size: 16px;
+
+//Para Yo, Júlia
+font-family: "Playfair Display", serif;
+
+*/
